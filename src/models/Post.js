@@ -14,4 +14,6 @@ class Post {
     }
 }
 
+const unesed = 10;
+
 export default Post;
